@@ -18,8 +18,7 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  ij_array = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
-  ij_array.sort()
+  
       
 end
 
